@@ -1,5 +1,11 @@
 remote_theme : lixizhi.github.io
 
+plugins:
+  - jekyll-gist
+  - jekyll-coffeescript
+  - jekyll-assets
+  - another-jekyll-plugin
+  
 # Site Settings
 locale                   : "en-KR"
 title                    : "Site Title"
